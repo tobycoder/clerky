@@ -1,0 +1,7 @@
+export FIREBASE_WEB_API_KEY="AIzaSyAE9eQ9xTvwIIAohWLMkLl--YR89VshWsg"
+export MAIL_USERNAME="florisblog.com@gmail.com"
+export MAIL_PASSWORD="ewmf krvx mxno bopp"
+export MASTER_EMAIL="floris@florisdeboer.com"
+export SITE_BASE_URL="http://127.0.0.1:5000"
+export UPLOAD_LOCATION='static/moties'
+export FLASK_APP='__init__.py'

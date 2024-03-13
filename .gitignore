@@ -1,0 +1,8 @@
+app/key.json
+app/extensions.py
+app/variables
+*.pyc
+/bin/
+/lib/
+/lib64/
+*.docx#
