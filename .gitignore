@@ -1,6 +1,6 @@
-app/key.json
-app/extensions.py
-app/variables
+key.json
+extensions.py
+variables
 *.pyc
 /bin/
 /lib/
